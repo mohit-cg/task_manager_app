@@ -1,0 +1,18 @@
+.customCard {
+  width: 600px;
+  height: max-content;
+}
+.taskHeader {
+  font-size: 20px;
+  font-weight: 550;
+  margin-bottom: 20px;
+}
+.taskDetails{
+    width:100%;
+}
+.taskTable{
+    width:100%;
+}
+.taskTable th, .taskTable td{
+    padding:10px;
+}

@@ -1,0 +1,34 @@
+.customCard {
+  margin: 10px;
+  padding: 10px;
+  background-color: gray;
+  color: #fff;
+}
+.taskTitle {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+.taskdescription {
+  font-size: 16px;
+  margin-bottom: 10px;
+  max-height: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.taskDueDate {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.iconContainer {
+  display: flex;
+  justify-content: space-around;
+}
+.actionBtn {
+  background: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+}
